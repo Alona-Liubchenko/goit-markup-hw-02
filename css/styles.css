@@ -246,5 +246,6 @@ body {
   color: #757575;
 }
 .filtre-list .current {
-  color: var(--accent-color);
+  background-color: var(--accent-color);
+  color: #ffffff;
 }
